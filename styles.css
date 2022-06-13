@@ -1,0 +1,15 @@
+body {
+    background-color: #80bfff;
+}
+
+img {
+    width: 300px;
+    border: 10px groove blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.company {
+    color: white;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
